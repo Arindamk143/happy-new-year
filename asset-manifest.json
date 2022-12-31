@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/happy-new-year/static/css/main.f7598a11.css",
+    "main.js": "/happy-new-year/static/js/main.448fcc80.js",
+    "static/media/newYear.jpg": "/happy-new-year/static/media/newYear.f1e21ad36a0efbb484b2.jpg",
+    "static/media/sound.mp3": "/happy-new-year/static/media/sound.c2706fcb76500fabf8a4.mp3",
+    "index.html": "/happy-new-year/index.html",
+    "main.f7598a11.css.map": "/happy-new-year/static/css/main.f7598a11.css.map",
+    "main.448fcc80.js.map": "/happy-new-year/static/js/main.448fcc80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7598a11.css",
+    "static/js/main.448fcc80.js"
+  ]
+}
